@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76930357-c4cf-403b-bb58-79f481601a33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/bootcustomfilters/FilterConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/bootcustomfilters/SpringBootFiltersApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/bootcustomfilters/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/bootcustomfilters/filters/RequestResponseLoggingFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/bootcustomfilters/filters/TransactionFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/bootcustomfilters/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/changeport/CustomApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/changeport/ServerPortCustomizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/errorhandling/ErrorHandlingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/errorhandling/controllers/IndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/errorhandling/controllers/MyErrorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/exitcode/event/ExitCodeEventDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/exitcode/exception/ExitCodeExceptionMapperDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/exitcode/generator/ExitCodeGeneratorDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/failureanalyzer/FailureAnalyzerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/failureanalyzer/MyBeanNotOfRequiredTypeFailureAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/failureanalyzer/MyDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/failureanalyzer/MySecondDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/failureanalyzer/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/favicon/FaviconApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/favicon/config/FaviconConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/application-errorhandling.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/com/baeldung/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/templates/error-404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/templates/error-500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/templates/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/templates/error/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/test/java/com/baeldung/failureanalyzer/FailureAnalyzerAppIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/test/java/com/baeldung/failureanalyzer/utils/ListAppender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/test/resources/logback-test.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ez0JAaeJn5VtpC4cY22ImKJsEF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.baeldung.bootcustomfilters.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootFiltersApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.bootcustomfilters.SpringBootFiltersApplication" />
+      <module name="spring-boot-basic-customization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.bootcustomfilters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootFiltersApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76930357-c4cf-403b-bb58-79f481601a33" name="Default Changelist" comment="" />
+      <created>1595309039410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595309039410</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1644" y="414" key="#com.intellij.ide.util.MemberChooser" timestamp="1595346340437">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1644" y="414" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1595346340437" />
+    <state x="1569" y="474" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595343156829">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1569" y="474" key="#com.intellij.ide.util.PackageChooserDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1595343156829" />
+    <state width="2548" height="247" key="GridCell.Tab.0.bottom" timestamp="1595357005250">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2548" height="247" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1595357005250" />
+    <state width="2548" height="247" key="GridCell.Tab.0.center" timestamp="1595357005250">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2548" height="247" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1595357005250" />
+    <state width="2548" height="247" key="GridCell.Tab.0.left" timestamp="1595357005249">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2548" height="247" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1595357005249" />
+    <state width="2548" height="247" key="GridCell.Tab.0.right" timestamp="1595357005250">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2548" height="247" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1595357005250" />
+    <state x="824" y="353" key="Maven.ArtifactSearchDialog" timestamp="1595356259663">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="824" y="353" key="Maven.ArtifactSearchDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1595356259663" />
+    <state x="795" y="330" key="SettingsEditor" timestamp="1595356303158">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="795" y="330" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1595356303158" />
+  </component>
+</project>
