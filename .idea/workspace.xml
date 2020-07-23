@@ -20,59 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76930357-c4cf-403b-bb58-79f481601a33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_class_model_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_jakarta_inject_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_core_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_runlevel_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_spring_bridge_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_bean_validation_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_spring5_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_hk2_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_29_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_CR2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_commons_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jersey_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/JerseyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/filters/SecurityFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/UserResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-basic-customization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-basic-customization.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/FilterConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/FilterConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/SpringBootFiltersApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/SpringBootFiltersApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/JerseyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/JerseyConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/filters/RequestResponseLoggingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/filters/RequestResponseLoggingFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/model/HeaderModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/model/HeaderModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/FilterConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/SpringBootFiltersApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/SpringBootFiltersApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/filters/RequestResponseLoggingFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/model/HeaderModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/filters/SecurityFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/filters/SecurityFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/UserResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/controller/JerseyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/controller/JerseyConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/filters/SecurityFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/resource/UserResource.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/bootcustomfilters/FilterConfig.java" beforeDir="false" />
@@ -206,26 +162,26 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1569" y="474" key="#com.intellij.ide.util.PackageChooserDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1595343156829" />
-    <state width="2457" height="369" key="GridCell.Tab.0.bottom" timestamp="1595523443084">
+    <state width="2278" height="369" key="GridCell.Tab.0.bottom" timestamp="1595528441091">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1680" height="247" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1595448250914" />
-    <state width="2457" height="369" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1595523443084" />
-    <state width="2457" height="369" key="GridCell.Tab.0.center" timestamp="1595523443083">
+    <state width="2278" height="369" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1595528441091" />
+    <state width="2278" height="369" key="GridCell.Tab.0.center" timestamp="1595528441090">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1680" height="247" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1595448250913" />
-    <state width="2457" height="369" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1595523443083" />
-    <state width="2457" height="369" key="GridCell.Tab.0.left" timestamp="1595523443083">
+    <state width="2278" height="369" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1595528441090" />
+    <state width="2278" height="369" key="GridCell.Tab.0.left" timestamp="1595528441090">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1680" height="247" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1595448250913" />
-    <state width="2457" height="369" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1595523443083" />
-    <state width="2457" height="369" key="GridCell.Tab.0.right" timestamp="1595523443084">
+    <state width="2278" height="369" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1595528441090" />
+    <state width="2278" height="369" key="GridCell.Tab.0.right" timestamp="1595528441090">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1680" height="247" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1595448250913" />
-    <state width="2457" height="369" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1595523443084" />
+    <state width="2278" height="369" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1595528441090" />
     <state x="824" y="353" key="Maven.ArtifactSearchDialog" timestamp="1595356259663">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
