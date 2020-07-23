@@ -2,6 +2,7 @@ package com.baeldung.bootcustomfilters;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 /**
  * Boot application
@@ -9,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
-public class SpringBootFiltersApplication {
+public class SpringBootFiltersApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootFiltersApplication.class, args);
