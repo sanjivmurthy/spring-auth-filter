@@ -20,15 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76930357-c4cf-403b-bb58-79f481601a33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/SecurityFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/JerseyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/JerseyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/filters/SecurityFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/filters/SecurityFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/UserResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/controller/JerseyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/controller/JerseyConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/filters/SecurityFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/resource/UserResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/SpringBootFiltersApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/SpringBootFiltersApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/JerseyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/JerseyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/resource/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/bootcustomfilters/filters/SecurityFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/SpringBootFiltersApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/controller/JerseyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/baeldung/bootcustomfilters/controller/UserController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-boot-basic-customization/src/main/java/com/baeldung/bootcustomfilters/FilterConfig.java" beforeDir="false" />
@@ -106,11 +107,11 @@
   </component>
   <component name="RunManager">
     <configuration name="SpringBootFiltersApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.baeldung.bootcustomfilters.SpringBootFiltersApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.bootcustomfilters.resource.SpringBootFiltersApplication" />
       <module name="spring-boot-basic-customization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.baeldung.bootcustomfilters.*" />
+          <option name="PATTERN" value="com.baeldung.bootcustomfilters.resource.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,26 +163,26 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1569" y="474" key="#com.intellij.ide.util.PackageChooserDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1595343156829" />
-    <state width="2278" height="369" key="GridCell.Tab.0.bottom" timestamp="1595528441091">
+    <state width="2278" height="369" key="GridCell.Tab.0.bottom" timestamp="1595537815555">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1680" height="247" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1595448250914" />
-    <state width="2278" height="369" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1595528441091" />
-    <state width="2278" height="369" key="GridCell.Tab.0.center" timestamp="1595528441090">
+    <state width="2278" height="369" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1595537815555" />
+    <state width="2278" height="369" key="GridCell.Tab.0.center" timestamp="1595537815555">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1680" height="247" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1595448250913" />
-    <state width="2278" height="369" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1595528441090" />
-    <state width="2278" height="369" key="GridCell.Tab.0.left" timestamp="1595528441090">
+    <state width="2278" height="369" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1595537815555" />
+    <state width="2278" height="369" key="GridCell.Tab.0.left" timestamp="1595537815554">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1680" height="247" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1595448250913" />
-    <state width="2278" height="369" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1595528441090" />
-    <state width="2278" height="369" key="GridCell.Tab.0.right" timestamp="1595528441090">
+    <state width="2278" height="369" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1595537815554" />
+    <state width="2278" height="369" key="GridCell.Tab.0.right" timestamp="1595537815555">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state width="1680" height="247" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1595448250913" />
-    <state width="2278" height="369" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1595528441090" />
+    <state width="2278" height="369" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1595537815555" />
     <state x="824" y="353" key="Maven.ArtifactSearchDialog" timestamp="1595356259663">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
